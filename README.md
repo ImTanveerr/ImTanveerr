@@ -42,15 +42,6 @@
 
 ---
 
-### 🌍 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /></a>
-</p>
-
----
 
 ### ⚡ Fun Fact
 
