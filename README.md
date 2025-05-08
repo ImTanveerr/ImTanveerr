@@ -3,8 +3,9 @@
 <h3 align="center">A passionate Web Programmer from Bangladesh</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=Web+Developer+%7C+Programmer+%7C+Tech+Entrepreneur;C%2FC%2B%2B%2FJava%2FTypeScript%2FPHP+%7C+MySQL%2FPrisma%2FArduino" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Crafting+the+Web+with+Code+and+Creativity;Passionate+Programmer+%7C+Tech+Explorer" alt="Typing SVG" />
 </p>
+
 
 ---
 
