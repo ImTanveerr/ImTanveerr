@@ -8,39 +8,61 @@
 
 
 ---
+## 🚀 Tech Stack  
 
-### 🔧 Tech Stack
-
+### 💻 Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,mysql,java,cpp,github,arduino,react,nodejs,express,nextjs,prisma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c" />
+</p>
+
+### 🌐 Frontend  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,redux,tailwind" />
+</p>
+
+### 🛠 Backend  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql" />
+</p>
+
+### 🗄️ Database & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,docker,prisma" />
+</p>
+
+### ☁️ Other Interests  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,solidity" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ImTanveer&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ImTanveer&theme=radical&hide_border=true" alt="Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImTanveer&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ImTanveerr&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImTanveerr&layout=compact&theme=radical" height="180" />
 </p>
 
 ---
 
-### 🛠️ Projects & Interests
+## 🎯 Project Interests  
 
-- 🚀 Building modern web apps with full-stack JavaScript
-- 🤖 IoT Projects with Arduino & sensors
-- 🛡️ Exploring cybersecurity & system-level programming
-- 📈 Learning about Web3 and decentralized technologies
+<p align="center">
+  🚀 Building <b>modern SaaS tools</b> that solve real-world problems <br/>
+  🤖 Developing <b>AI-powered bots</b> for trading & automation <br/>
+  🌐 Exploring <b>Web3 & Blockchain</b> through DeFi & smart contracts <br/>
+  📦 Creating <b>scalable full-stack apps</b> with MERN & Cloud <br/>
+  🎮 Experimenting with <b>gamified learning & puzzle projects</b> <br/>
+</p>
 
 ---
+
+### 🔮 Future Goals  
+- 🌱 Contribute to **AI + Cloud open-source projects**  
+- 💸 Launch my own **DeFi or AI SaaS platform**  
+- 📚 Share my **learning journey & projects** with the community  
+
 
 
 ### ⚡ Fun Fact
