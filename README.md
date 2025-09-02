@@ -1,13 +1,16 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Akram Hossain Tanveer</h1>
+<!-- Profile Banner -->
+<p align="center">
+  <img src="assets/tanveer banner.png" alt="Tanveer Banner" width="100%" />
+</p>
+
 <h3 align="center">A passionate Web Programmer from Bangladesh</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Crafting+the+Web+with+Code+and+Creativity;Passionate+Programmer+%7C+Tech+Explorer" alt="Typing SVG" />
 </p>
 
-
 ---
+
 ## 🚀 Tech Stack  
 
 ### 💻 Languages  
@@ -40,8 +43,12 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ImTanveerr&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImTanveerr&layout=compact&theme=radical" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ImTanveerr&theme=radical&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ImTanveerr&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImTanveerr&layout=compact&theme=radical&hide_border=true" height="180" />
 </p>
 
 ---
@@ -63,12 +70,12 @@
 - 💸 Launch my own **DeFi or AI SaaS platform**  
 - 📚 Share my **learning journey & projects** with the community  
 
+---
 
+### ⚡ Fun Fact  
 
-### ⚡ Fun Fact
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
 
 ---
 
-> 🧠 *Keep learning, keep building, and always stay curious!*
+> 🧠 *Keep learning, keep building, and always stay curious!*  
