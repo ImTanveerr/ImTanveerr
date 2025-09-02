@@ -3,8 +3,6 @@
   <img src="assets/tanveer banner.png" alt="Tanveer Banner" width="100%" />
 </p>
 
-<h3 align="center">A passionate Web Programmer from Bangladesh</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Crafting+the+Web+with+Code+and+Creativity;Passionate+Programmer+%7C+Tech+Explorer" alt="Typing SVG" />
 </p>
